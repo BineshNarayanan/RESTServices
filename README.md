@@ -1,6 +1,8 @@
 # RESTServices
 This project tries to implement simple GET, POST examples. This example is implemented using Jersey Implementation of RESTServices. The reference is http://jersey.java.net. The example also has a client which can be used to test REST services.
 
+You can use this as a boiler plate for your rest service project.
+
 
 Prerequisites Java 1.7, Maven
 
