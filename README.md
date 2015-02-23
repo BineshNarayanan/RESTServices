@@ -6,7 +6,7 @@ You can use this as a boiler plate for your rest service project.
 
 Prerequisites Java 1.7, Maven
 
-1. Clone the project.
+1. Clone the project. Command to clone is "git clone <PASTE_THE_COPIED_CLONE_URL>".
 2. Build using mvn clean package
 3. Import this project into eclipse workspace.
 4. Add to tomcat and run.
